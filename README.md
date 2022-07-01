@@ -1,18 +1,14 @@
-# foodprint
+# Foodprint
 
-cs 125 project
+CS 125 Project
 
-members:
-austin leung, leon hsieh, daniel mishkan
+Used:
+* cocoapods (for installing extensions)
+* firebase (login authentification)
+*  IPHONE 12 (for preview)
 
-USE IPHONE 12 for preview
+Main file is named: "testing"
 
-used:
+# Video Walkthrough
 
-cocoapods (for installing extensions)
-
-firebase (login authentification)
-
-
-
-unfortunately i ended up naming this xcode file "testing" lol
+https://drive.google.com/file/d/13rar3e4kVKbFNGSyzZVjietSBoedQxJN/view?usp=sharing
