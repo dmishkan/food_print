@@ -1,6 +1,6 @@
 # Foodprint
 
-CS 125 Project
+CS 125 Project Members: Austin Leung, Leon Hsieh, Daniel Mishkanian
 
 Used:
 * cocoapods (for installing extensions)
